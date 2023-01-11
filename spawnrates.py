@@ -1,6 +1,6 @@
 import json
 import os
-from colormap import get_color
+from lib.colormap import get_color
 
 def get_structure_list():
     structure_list = {}
