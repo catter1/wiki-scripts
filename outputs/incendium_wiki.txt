@@ -1,0 +1,400 @@
+> Ash Barrens
+
+{{Biome
+|biomeid=incendium:ash_barrens
+|temperature=2
+|humidity=0
+|precipitation=none
+|rarity=
+|structures=[[Castle]]
+
+|blocks=
+|mobs=
+|skycolor={{color|#6EB1FF}}
+|fogcolor={{color|#5E5C62}}
+|grasscolor={{color|#BDB753}}
+|foliagecolor={{color|#ADA42A}}
+|watercolor={{color|#3F3944}}
+|underwatercolor={{color|#423E42}}
+
+===
+
+{{Spawn table
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Strider}}|weight=60|size=1-2}}
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Ghast}}|weight=20|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Magma Cube}}|weight=100|size=2-7}}
+{{Spawn row|{{Link to Mc Wiki|Page=Piglin}}|weight=100|size=1}}}}
+
+====================
+
+> Infernal Dunes
+
+{{Biome
+|biomeid=incendium:infernal_dunes
+|temperature=2
+|humidity=0
+|precipitation=none
+|rarity=
+|structures=[[Pipeline]]
+
+{{Link to Mc Wiki|Page=Nether Fortress}}
+
+|blocks=
+|mobs=
+|skycolor={{color|#CF5E00}}
+|fogcolor={{color|#684E4B}}
+|grasscolor={{color|#BDB753}}
+|foliagecolor={{color|#ADA42A}}
+|watercolor={{color|#3F76E4}}
+|underwatercolor={{color|#423E42}}
+
+===
+
+{{Spawn table
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Strider}}|weight=60|size=1-2}}
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Blaze}}|weight=20|size=2-5}}
+{{Spawn row|{{Link to Mc Wiki|Page=Magma Cube}}|weight=5|size=1-3}}}}
+
+====================
+
+> Inverted Forest
+
+{{Biome
+|biomeid=incendium:inverted_forest
+|temperature=2
+|humidity=0
+|precipitation=none
+|rarity=
+|structures={{Link to Mc Wiki|Page=Bastion Remnant}}
+
+{{Link to Mc Wiki|Page=Nether Fortress}}
+
+|blocks=
+|mobs=
+|skycolor={{color|#6EB1FF}}
+|fogcolor={{color|#1A051A}}
+|grasscolor={{color|#BDB753}}
+|foliagecolor={{color|#ADA42A}}
+|watercolor={{color|#3F76E4}}
+|underwatercolor={{color|#50533}}
+
+===
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=1|size=4}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Strider}}|weight=60|size=1-2}}}}
+
+====================
+
+> Quartz Flats
+
+{{Biome
+|biomeid=incendium:quartz_flats
+|temperature=2
+|humidity=0
+|precipitation=none
+|rarity=
+|structures=[[Sanctum]]
+
+{{Link to Mc Wiki|Page=Nether Fossil}}
+
+|blocks=
+|mobs=
+|skycolor={{color|#C2C2D0}}
+|fogcolor={{color|#D1BFC8}}
+|grasscolor={{color|#76FF17}}
+|foliagecolor={{color|#76FF17}}
+|watercolor={{color|#3F76E4}}
+|underwatercolor={{color|#423E42}}
+
+===
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Ghast}}|weight=100|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=1-5}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Strider}}|weight=60|size=1-2}}}}
+
+====================
+
+> Toxic Heap
+
+{{Biome
+|biomeid=incendium:toxic_heap
+|temperature=2
+|humidity=0
+|precipitation=none
+|rarity=
+|structures=[[Pipeline]]
+
+[[Reactor]]
+
+{{Link to Mc Wiki|Page=Nether Fortress}}
+
+|blocks=
+|mobs=
+|skycolor={{color|#6EB1FF}}
+|fogcolor={{color|#6F7234}}
+|grasscolor={{color|#BDB753}}
+|foliagecolor={{color|#ADA42A}}
+|watercolor={{color|#3F76E4}}
+|underwatercolor={{color|#50533}}
+
+===
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Phantom}}|weight=10|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Magma Cube}}|weight=90|size=1-3}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Strider}}|weight=60|size=1-2}}}}
+
+====================
+
+> Volcanic Deltas
+
+{{Biome
+|biomeid=incendium:volcanic_deltas
+|temperature=2
+|humidity=0
+|precipitation=none
+|rarity=
+|structures=[[Reactor]]
+
+|blocks=
+|mobs=
+|skycolor={{color|#6EB1FF}}
+|fogcolor={{color|#7D5C62}}
+|grasscolor={{color|#BDB753}}
+|foliagecolor={{color|#ADA42A}}
+|watercolor={{color|#5D5362}}
+|underwatercolor={{color|#423E42}}
+
+===
+
+{{Spawn table
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Strider}}|weight=60|size=1-2}}
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Ghast}}|weight=50|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Magma Cube}}|weight=50|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Blaze}}|weight=20|size=1}}}}
+
+====================
+
+> Weeping Valley
+
+{{Biome
+|biomeid=incendium:weeping_valley
+|temperature=2
+|humidity=0
+|precipitation=none
+|rarity=
+|structures={{Link to Mc Wiki|Page=Nether Fossil}}
+
+{{Link to Mc Wiki|Page=Bastion Remnant}}
+
+{{Link to Mc Wiki|Page=Nether Fortress}}
+
+|blocks=
+|mobs=
+|skycolor={{color|#6EB1FF}}
+|fogcolor={{color|#33261F}}
+|grasscolor={{color|#BDB753}}
+|foliagecolor={{color|#ADA42A}}
+|watercolor={{color|#3F76E4}}
+|underwatercolor={{color|#50533}}
+
+===
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=25|size=5}}
+{{Spawn row|{{Link to Mc Wiki|Page=Ghast}}|weight=50|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=2|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Magma Cube}}|weight=20|size=2-4}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Strider}}|weight=60|size=1-2}}}}
+
+====================
+
+> Withered Forest
+
+{{Biome
+|biomeid=incendium:withered_forest
+|temperature=2
+|humidity=0
+|precipitation=none
+|rarity=
+|structures=|blocks=
+|mobs=
+|skycolor={{color|#C2C2D0}}
+|fogcolor={{color|#211B2A}}
+|grasscolor={{color|#BDB753}}
+|foliagecolor={{color|#7F848C}}
+|watercolor={{color|#3F76E4}}
+|underwatercolor={{color|#423E42}}
+
+===
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Wither Skeleton}}|weight=50|size=1-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Magma Cube}}|weight=20|size=1-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Phantom}}|weight=6|size=1-2}}}}
+
+====================
+
+> Basalt Deltas
+
+{{Biome
+|biomeid=minecraft:basalt_deltas
+|temperature=2
+|humidity=0
+|precipitation=none
+|rarity=
+|structures=[[Reactor]]
+
+|blocks=
+|mobs=
+|skycolor={{color|#6EB1FF}}
+|fogcolor={{color|#685F70}}
+|grasscolor={{color|#BDB753}}
+|foliagecolor={{color|#ADA42A}}
+|watercolor={{color|#3F76E4}}
+|underwatercolor={{color|#50533}}
+
+===
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Ghast}}|weight=40|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Magma Cube}}|weight=100|size=2-5}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Strider}}|weight=60|size=1-2}}}}
+
+====================
+
+> Crimson Forest
+
+{{Biome
+|biomeid=minecraft:crimson_forest
+|temperature=2
+|humidity=0
+|precipitation=none
+|rarity=
+|structures=|blocks=
+|mobs=
+|skycolor={{color|#6EB1FF}}
+|fogcolor={{color|#330303}}
+|grasscolor={{color|#BDB753}}
+|foliagecolor={{color|#ADA42A}}
+|watercolor={{color|#3F76E4}}
+|underwatercolor={{color|#50533}}
+
+===
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Zombified Piglin}}|weight=1|size=2-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Hoglin}}|weight=9|size=3-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Piglin}}|weight=5|size=3-4}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Strider}}|weight=60|size=1-2}}}}
+
+====================
+
+> Nether Wastes
+
+{{Biome
+|biomeid=minecraft:nether_wastes
+|temperature=2
+|humidity=0
+|precipitation=none
+|rarity=
+|structures=|blocks=
+|mobs=
+|skycolor={{color|#6EB1FF}}
+|fogcolor={{color|#330808}}
+|grasscolor={{color|#BDB753}}
+|foliagecolor={{color|#ADA42A}}
+|watercolor={{color|#3F76E4}}
+|underwatercolor={{color|#50533}}
+
+===
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Ghast}}|weight=50|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombified Piglin}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Magma Cube}}|weight=2|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=1|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Piglin}}|weight=15|size=4}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Strider}}|weight=60|size=1-2}}}}
+
+====================
+
+> Soul Sand Valley
+
+{{Biome
+|biomeid=minecraft:soul_sand_valley
+|temperature=2
+|humidity=0
+|precipitation=none
+|rarity=
+|structures=|blocks=
+|mobs=
+|skycolor={{color|#6EB1FF}}
+|fogcolor={{color|#1B4745}}
+|grasscolor={{color|#BDB753}}
+|foliagecolor={{color|#ADA42A}}
+|watercolor={{color|#3F76E4}}
+|underwatercolor={{color|#50533}}
+
+===
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=20|size=5}}
+{{Spawn row|{{Link to Mc Wiki|Page=Ghast}}|weight=50|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=1|size=4}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Strider}}|weight=60|size=1-2}}}}
+
+====================
+
+> Warped Forest
+
+{{Biome
+|biomeid=minecraft:warped_forest
+|temperature=2
+|humidity=0
+|precipitation=none
+|rarity=
+|structures=|blocks=
+|mobs=
+|skycolor={{color|#6EB1FF}}
+|fogcolor={{color|#1A051A}}
+|grasscolor={{color|#BDB753}}
+|foliagecolor={{color|#ADA42A}}
+|watercolor={{color|#3F76E4}}
+|underwatercolor={{color|#50533}}
+
+===
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=1|size=4}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Strider}}|weight=60|size=1-2}}}}
+
+====================
+
