@@ -1,0 +1,3362 @@
+> Alpha Islands
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=4}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Axolotl}}|weight=10|size=4-6}}}}
+
+====================
+> Alpha Islands Winter
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=4}}}}
+
+====================
+> Alpine Grove
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Wolf}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Fox}}|weight=8|size=2-4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Alpine Highlands
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=5|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Amethyst Canyon
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Ocelot}}|weight=2|size=1-3}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Parrot}}|weight=40|size=1-2}}
+{{Spawn row|{{Link to Mc Wiki|Page=Panda}}|weight=1|size=1-2}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Amethyst Rainforest
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Ocelot}}|weight=2|size=1-3}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Parrot}}|weight=40|size=1-2}}
+{{Spawn row|{{Link to Mc Wiki|Page=Panda}}|weight=1|size=1-2}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Ancient Sands
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=19|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=1|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Husk}}|weight=80|size=4}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Arid Highlands
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=1|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Ashen Savanna
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=1|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Llama}}|weight=8|size=4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Basalt Cliffs
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Birch Taiga
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Blooming Plateau
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1-2}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=2|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=2|size=2-4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Blooming Valley
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Brushland
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=1|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Bryce Canyon
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Caldera
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Wolf}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Fox}}|weight=8|size=2-4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Cloud Forest
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Wolf}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Fox}}|weight=8|size=2-4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Cold Shrubland
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=5|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Desert Canyon
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=19|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=1|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Husk}}|weight=80|size=4}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Desert Oasis
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=19|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=1|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Husk}}|weight=80|size=4}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Desert Spires
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=19|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=1|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Husk}}|weight=80|size=4}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Emerald Peaks
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Forested Highlands
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=5|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Fractured Savanna
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=1|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Axolotl}}|weight=10|size=4-6}}}}
+
+====================
+> Frozen Cliffs
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=20|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Stray}}|weight=80|size=4}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=10|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Polar Bear}}|weight=1|size=1-2}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Glacial Chasm
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=20|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Stray}}|weight=80|size=4}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=10|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Polar Bear}}|weight=1|size=1-2}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Granite Cliffs
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Gravel Beach
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Turtle}}|weight=5|size=2-5}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Gravel Desert
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=20|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Stray}}|weight=80|size=4}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=10|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Polar Bear}}|weight=1|size=1-2}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Haze Mountain
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Llama}}|weight=5|size=4-6}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Highlands
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=5|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Hot Shrubland
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=5|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Ice Marsh
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=1|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Frog}}|weight=18|size=2-5}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Jungle Mountains
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Ocelot}}|weight=2|size=1-3}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Parrot}}|weight=40|size=1-2}}
+{{Spawn row|{{Link to Mc Wiki|Page=Panda}}|weight=1|size=1-2}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Lavender Forest
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Lavender Valley
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Lush Desert
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=19|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=1|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Husk}}|weight=80|size=4}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Lush Valley
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Wolf}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Fox}}|weight=8|size=2-4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Mirage Isles
+
+{{Spawn table
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Moonlight Grove
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Moonlight Valley
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Mountain Steppe
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=5|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Orchid Swamp
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=1|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Frog}}|weight=25|size=2-5}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Painted Mountains
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Goat}}|weight=5|size=1-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Red Oasis
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=19|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=1|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Husk}}|weight=80|size=4}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Rocky Jungle
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Ocelot}}|weight=2|size=1-3}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Parrot}}|weight=40|size=1-2}}
+{{Spawn row|{{Link to Mc Wiki|Page=Panda}}|weight=1|size=1-2}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Rocky Mountains
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Rocky Shrubland
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=5|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Sakura Grove
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Sakura Valley
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Sandstone Valley
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=19|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=1|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Husk}}|weight=80|size=4}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Savanna Badlands
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=1|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Llama}}|weight=8|size=4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Savanna Slopes
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=1|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Llama}}|weight=8|size=4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Scarlet Mountains
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Shield
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Wolf}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Fox}}|weight=8|size=2-4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Shield Clearing
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=5|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Shrubland
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=5|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Siberian Grove
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Wolf}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Fox}}|weight=8|size=2-4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Siberian Taiga
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Wolf}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Fox}}|weight=8|size=2-4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Skylands
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Drowned}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}
+|watercreature=
+{{Spawn row|{{Link to Mc Wiki|Page=Squid}}|weight=1|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Dolphin}}|weight=1|size=1-2}}
+|waterambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Cod}}|weight=10|size=3-6}}}}
+
+====================
+> Skylands Autumn
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Drowned}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}
+|watercreature=
+{{Spawn row|{{Link to Mc Wiki|Page=Squid}}|weight=1|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Dolphin}}|weight=1|size=1-2}}
+|waterambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Cod}}|weight=10|size=3-6}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Goat}}|weight=4|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Fox}}|weight=4|size=2-3}}}}
+
+====================
+> Skylands Spring
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Drowned}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}
+|watercreature=
+{{Spawn row|{{Link to Mc Wiki|Page=Squid}}|weight=1|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Dolphin}}|weight=1|size=1-2}}
+|waterambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Cod}}|weight=10|size=3-6}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=12|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=10|size=4}}}}
+
+====================
+> Skylands Summer
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Drowned}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}
+|watercreature=
+{{Spawn row|{{Link to Mc Wiki|Page=Squid}}|weight=1|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Dolphin}}|weight=1|size=1-2}}
+|waterambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Cod}}|weight=10|size=3-6}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Parrot}}|weight=6|size=1}}}}
+
+====================
+> Skylands Winter
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Stray}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Drowned}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}
+|watercreature=
+{{Spawn row|{{Link to Mc Wiki|Page=Squid}}|weight=1|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Dolphin}}|weight=1|size=1-2}}
+|waterambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Cod}}|weight=10|size=3-6}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Goat}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}}}
+
+====================
+> Snowy Badlands
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Snowy Maple Forest
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=5|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Snowy Shield
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Wolf}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Fox}}|weight=8|size=2-4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Steppe
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=5|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Stony Spires
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Temperate Highlands
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=5|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Tropical Jungle
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Ocelot}}|weight=2|size=1-3}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Parrot}}|weight=40|size=1-2}}
+{{Spawn row|{{Link to Mc Wiki|Page=Panda}}|weight=1|size=1-2}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Valley Clearing
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=5|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Volcanic Crater
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Volcanic Peaks
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Warm River
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Drowned}}|weight=100|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}
+|watercreature=
+{{Spawn row|{{Link to Mc Wiki|Page=Squid}}|weight=2|size=1-4}}
+|waterambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Tropical Fish}}|weight=5|size=1-5}}}}
+
+====================
+> Warped Mesa
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=70|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=70|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=70|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=70|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=1000|size=1-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> White Cliffs
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> White Mesa
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Windswept Spires
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Llama}}|weight=5|size=4-6}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Wintry Forest
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=8|size=6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Wolf}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=8|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Fox}}|weight=8|size=2-4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Wintry Lowlands
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=8|size=6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Wolf}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=8|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Fox}}|weight=8|size=2-4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Yellowstone
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Wolf}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Fox}}|weight=8|size=2-4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Yosemite Cliffs
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Wolf}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Fox}}|weight=8|size=2-4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Yosemite Lowlands
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Wolf}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Fox}}|weight=8|size=2-4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Andesite Caves
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Crystal Caves
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=50|size=1-2}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Deep Caves
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Desert Caves
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Diorite Caves
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Frostfire Caves
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Fungal Caves
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Granite Caves
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Ice Caves
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Infested Caves
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=50|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cave Spider}}|weight=20|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Mantle Caves
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Thermal Caves
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Drowned}}|weight=95|size=4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Tuff Caves
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Underground Jungle
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=400|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=300|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=35|size=1-2}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Turtle}}|weight=35|size=3-4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}
+|waterambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Tropical Fish}}|weight=25|size=8}}}}
+
+====================
+> Badlands
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Bamboo Jungle
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Ocelot}}|weight=2|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Parrot}}|weight=40|size=1-2}}
+{{Spawn row|{{Link to Mc Wiki|Page=Panda}}|weight=80|size=1-2}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Beach
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Turtle}}|weight=5|size=2-5}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Birch Forest
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Cold Ocean
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Drowned}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}
+|watercreature=
+{{Spawn row|{{Link to Mc Wiki|Page=Squid}}|weight=3|size=1-4}}
+|waterambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Cod}}|weight=15|size=3-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Salmon}}|weight=15|size=1-5}}}}
+
+====================
+> Dark Forest
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Deep Cold Ocean
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Drowned}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}
+|watercreature=
+{{Spawn row|{{Link to Mc Wiki|Page=Squid}}|weight=3|size=1-4}}
+|waterambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Cod}}|weight=15|size=3-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Salmon}}|weight=15|size=1-5}}}}
+
+====================
+> Deep Frozen Ocean
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Drowned}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Polar Bear}}|weight=1|size=1-2}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}
+|watercreature=
+{{Spawn row|{{Link to Mc Wiki|Page=Squid}}|weight=1|size=1-4}}
+|waterambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Salmon}}|weight=15|size=1-5}}}}
+
+====================
+> Deep Lukewarm Ocean
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Drowned}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}
+|watercreature=
+{{Spawn row|{{Link to Mc Wiki|Page=Squid}}|weight=8|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Dolphin}}|weight=2|size=1-2}}
+|waterambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Cod}}|weight=8|size=3-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pufferfish}}|weight=5|size=1-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Tropical Fish}}|weight=25|size=8}}}}
+
+====================
+> Deep Ocean
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Drowned}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}
+|watercreature=
+{{Spawn row|{{Link to Mc Wiki|Page=Squid}}|weight=1|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Dolphin}}|weight=1|size=1-2}}
+|waterambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Cod}}|weight=10|size=3-6}}}}
+
+====================
+> Deep Warm Ocean
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Drowned}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}
+|watercreature=
+{{Spawn row|{{Link to Mc Wiki|Page=Squid}}|weight=5|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Dolphin}}|weight=2|size=1-2}}
+|waterambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Tropical Fish}}|weight=25|size=8}}}}
+
+====================
+> Desert
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=19|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=1|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Husk}}|weight=80|size=4}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Dripstone Caves
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Drowned}}|weight=95|size=4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Eroded Badlands
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Flower Forest
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Forest
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Wolf}}|weight=5|size=4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Frozen Ocean
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Drowned}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Polar Bear}}|weight=1|size=1-2}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}
+|watercreature=
+{{Spawn row|{{Link to Mc Wiki|Page=Squid}}|weight=1|size=1-4}}
+|waterambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Salmon}}|weight=15|size=1-5}}}}
+
+====================
+> Frozen Peaks
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Goat}}|weight=5|size=1-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Frozen River
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Drowned}}|weight=1|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}
+|watercreature=
+{{Spawn row|{{Link to Mc Wiki|Page=Squid}}|weight=2|size=1-4}}
+|waterambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Salmon}}|weight=5|size=1-5}}}}
+
+====================
+> Grove
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Wolf}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Fox}}|weight=8|size=2-4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Ice Spikes
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=20|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Stray}}|weight=80|size=4}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=10|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Polar Bear}}|weight=1|size=1-2}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Jagged Peaks
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Goat}}|weight=5|size=1-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Jungle
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Ocelot}}|weight=2|size=1-3}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Parrot}}|weight=40|size=1-2}}
+{{Spawn row|{{Link to Mc Wiki|Page=Panda}}|weight=1|size=1-2}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Lukewarm Ocean
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Drowned}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}
+|watercreature=
+{{Spawn row|{{Link to Mc Wiki|Page=Squid}}|weight=10|size=1-2}}
+{{Spawn row|{{Link to Mc Wiki|Page=Dolphin}}|weight=2|size=1-2}}
+|waterambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Cod}}|weight=15|size=3-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pufferfish}}|weight=5|size=1-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Tropical Fish}}|weight=25|size=8}}}}
+
+====================
+> Lush Caves
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}
+|waterambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Tropical Fish}}|weight=25|size=8}}}}
+
+====================
+> Meadow
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1-2}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=2|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=2|size=2-4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Mushroom Fields
+
+{{Spawn table
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Mooshroom}}|weight=8|size=4-8}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Ocean
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Drowned}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}
+|watercreature=
+{{Spawn row|{{Link to Mc Wiki|Page=Squid}}|weight=1|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Dolphin}}|weight=1|size=1-2}}
+|waterambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Cod}}|weight=10|size=3-6}}}}
+
+====================
+> Old Growth Birch Forest
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Old Growth Pine Taiga
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=25|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Wolf}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Fox}}|weight=8|size=2-4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Old Growth Spruce Taiga
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Wolf}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Fox}}|weight=8|size=2-4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Plains
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=5|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> River
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Drowned}}|weight=100|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}
+|watercreature=
+{{Spawn row|{{Link to Mc Wiki|Page=Squid}}|weight=2|size=1-4}}
+|waterambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Salmon}}|weight=5|size=1-5}}}}
+
+====================
+> Savanna
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=1|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Savanna Plateau
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=1|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Llama}}|weight=8|size=4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Snowy Beach
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Snowy Plains
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=20|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Stray}}|weight=80|size=4}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=10|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Polar Bear}}|weight=1|size=1-2}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Snowy Slopes
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Goat}}|weight=5|size=1-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Snowy Taiga
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Wolf}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Fox}}|weight=8|size=2-4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Sparse Jungle
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Stony Peaks
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Stony Shore
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Sunflower Plains
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=5|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1-3}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Swamp
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=1|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Frog}}|weight=10|size=2-5}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Taiga
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Wolf}}|weight=8|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Rabbit}}|weight=4|size=2-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Fox}}|weight=8|size=2-4}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Warm Ocean
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Drowned}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}
+|watercreature=
+{{Spawn row|{{Link to Mc Wiki|Page=Squid}}|weight=10|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Dolphin}}|weight=2|size=1-2}}
+|waterambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Pufferfish}}|weight=15|size=1-3}}
+{{Spawn row|{{Link to Mc Wiki|Page=Tropical Fish}}|weight=25|size=8}}}}
+
+====================
+> Windswept Forest
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Llama}}|weight=5|size=4-6}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Windswept Gravelly Hills
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Llama}}|weight=5|size=4-6}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Windswept Hills
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Llama}}|weight=5|size=4-6}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Windswept Savanna
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|passive=
+{{Spawn row|{{Link to Mc Wiki|Page=Sheep}}|weight=12|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Pig}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Chicken}}|weight=10|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Cow}}|weight=8|size=8}}
+{{Spawn row|{{Link to Mc Wiki|Page=Horse}}|weight=1|size=2-6}}
+{{Spawn row|{{Link to Mc Wiki|Page=Donkey}}|weight=1|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
+> Wooded Badlands
+
+{{Spawn table
+|hostile=
+{{Spawn row|{{Link to Mc Wiki|Page=Spider}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie}}|weight=95|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Zombie Villager}}|weight=5|size=1}}
+{{Spawn row|{{Link to Mc Wiki|Page=Skeleton}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Creeper}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Slime}}|weight=100|size=4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Enderman}}|weight=10|size=1-4}}
+{{Spawn row|{{Link to Mc Wiki|Page=Witch}}|weight=5|size=1}}
+|ambient=
+{{Spawn row|{{Link to Mc Wiki|Page=Bat}}|weight=10|size=8}}
+|underground=
+{{Spawn row|{{Link to Mc Wiki|Page=Glow Squid}}|weight=10|size=4-6}}}}
+
+====================
